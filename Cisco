@@ -1,0 +1,7 @@
+Kali inbuilt tools
+* cisco7crack = Crypt and decrypt the cisco type 7 passwords
+* cisco-torch = Cisco device scanner
+* cisco-auditing-tool (CAT) = Scans Cisco routers for vulnerabilities
+* cisco-global-exploiter (cge.pl) = Simple and fast Cisco exploitation tool
+* cisco-ocs = Mass Cisco scanner
+* bed = A network protocol fuzzer. BED is a program which is designed to check daemons for potential buffer overflows, format strings et. al.
